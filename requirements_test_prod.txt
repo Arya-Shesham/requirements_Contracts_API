@@ -30,7 +30,6 @@ Markdown==3.3.6
 django-filter==21.1
 drf-extensions==0.7.1
 
-
 # Static and Media Storage
 django-storages==1.12.3
 boto3==1.20.37
@@ -38,7 +37,6 @@ boto3==1.20.37
 # Auth
 mozilla-django-oidc==2.0.0
 PyJWT==2.4.0
-
 
 # Asynchronous server
 channels==3.0.4
